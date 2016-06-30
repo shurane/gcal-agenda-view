@@ -1,0 +1,478 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33ocrqejr36sq0g\"",
+ "summary": "music",
+ "description": "schedule music albums to listen to, along with notes on what I like or don't like.",
+ "updated": "2016-06-29T16:49:46.166Z",
+ "timeZone": "America/New_York",
+ "accessRole": "owner",
+ "defaultReminders": [
+ ],
+ "nextSyncToken": "CPDN6dPYzc0CEPDN6dPYzc0CGAU=",
+ "items": [
+  {
+
+   "kind": "calendar#event",
+   "etag": "\"2934429312010000\"",
+   "id": "osoko2ev82jirhelkiehnkds3k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=b3Nva28yZXY4MmppcmhlbGtpZWhua2RzM2sgYWZqZmgxNjdqYWw4aDYwZTJsZ25vbGl0Y2NAZw",
+   "created": "2016-06-29T15:37:21.000Z",
+   "updated": "2016-06-29T15:37:36.005Z",
+   "summary": "Listen: Jay Z - Reasonable Doubt, The Blueprint",
+   "description": "I was listening to the Video Games single from Lana Del Rey and came across this from Hov: http://genius.com/2794026\n\nSomething about good girls gone bad and his three classics. Also, because I've listened to Kanye and Kanye is the producer of The Blueprint, as noted here: http://genius.com/albums/Jay-z/The-blueprint",
+   "creator": {
+    "email": "ehtesh.choudhury@gmail.com",
+    "displayName": "Ehtesh Choudhury"
+   },
+   "organizer": {
+    "email": "afjfh167jal8h60e2lgnolitcc@group.calendar.google.com",
+    "displayName": "music",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2016-06-30T22:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2016-06-30T23:30:00-04:00"
+   },
+   "iCalUID": "osoko2ev82jirhelkiehnkds3k@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+
+   "kind": "calendar#event",
+   "etag": "\"2934430466555000\"",
+   "id": "b7715390bp83r4hl5v9qa3bnrc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Yjc3MTUzOTBicDgzcjRobDV2OXFhM2JucmMgYWZqZmgxNjdqYWw4aDYwZTJsZ25vbGl0Y2NAZw",
+   "created": "2016-06-29T15:44:02.000Z",
+   "updated": "2016-06-29T15:47:13.428Z",
+   "summary": "Listen: FKA Twigs - LP1",
+   "description": "Not inspired. Why do people like her? I saw comparisons to Portishead and Tricky from Massive Attack... nah man, I don't see it. Useful to read:\n\n- http://pitchfork.com/reviews/albums/19590-twigs-lp1/\n- http://www.avclub.com/review/fka-twigs-gets-sultry-ambitious-and-inventive-her--207835\n\nBut I did discover Lana Del Rey and Kanye West's Runaway, because of Emile Haynie's involvement with all 3 people.",
+   "creator": {
+    "email": "ehtesh.choudhury@gmail.com",
+    "displayName": "Ehtesh Choudhury"
+   },
+   "organizer": {
+    "email": "afjfh167jal8h60e2lgnolitcc@group.calendar.google.com",
+    "displayName": "music",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2016-06-29T10:30:00-04:00"
+   },
+   "end": {
+    "dateTime": "2016-06-29T11:30:00-04:00"
+   },
+   "iCalUID": "b7715390bp83r4hl5v9qa3bnrc@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+
+   "kind": "calendar#event",
+   "etag": "\"2934430510557000\"",
+   "id": "34dshskjmvjruvkph7rpgeoa6g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MzRkc2hza2ptdmpydXZrcGg3cnBnZW9hNmcgYWZqZmgxNjdqYWw4aDYwZTJsZ25vbGl0Y2NAZw",
+   "created": "2016-06-29T15:46:59.000Z",
+   "updated": "2016-06-29T15:47:50.918Z",
+   "summary": "Listen: Two Door Cinema Club - Tourist History, Beacon",
+   "creator": {
+    "email": "ehtesh.choudhury@gmail.com",
+    "displayName": "Ehtesh Choudhury"
+   },
+   "organizer": {
+    "email": "afjfh167jal8h60e2lgnolitcc@group.calendar.google.com",
+    "displayName": "music",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2016-07-01T09:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2016-07-01T11:00:00-04:00"
+   },
+   "iCalUID": "34dshskjmvjruvkph7rpgeoa6g@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 30
+     }
+    ]
+   }
+  },
+  {
+
+   "kind": "calendar#event",
+   "etag": "\"2934430645646000\"",
+   "id": "2koa27vjkhi2mdtkgkm3pqr3c4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MmtvYTI3dmpraGkybWR0a2drbTNwcXIzYzQgYWZqZmgxNjdqYWw4aDYwZTJsZ25vbGl0Y2NAZw",
+   "created": "2016-06-29T15:48:42.000Z",
+   "updated": "2016-06-29T15:48:42.867Z",
+   "summary": "Listen: Kanye West - My Beautiful Dark Twisted Fantasy",
+   "creator": {
+    "email": "ehtesh.choudhury@gmail.com",
+    "displayName": "Ehtesh Choudhury"
+   },
+   "organizer": {
+    "email": "afjfh167jal8h60e2lgnolitcc@group.calendar.google.com",
+    "displayName": "music",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2016-07-04T08:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2016-07-04T09:00:00-04:00"
+   },
+   "iCalUID": "2koa27vjkhi2mdtkgkm3pqr3c4@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 30
+     }
+    ]
+   }
+  },
+  {
+
+   "kind": "calendar#event",
+   "etag": "\"2934433168270000\"",
+   "id": "lj02teg4ib5i8fhifn5v261p3c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bGowMnRlZzRpYjVpOGZoaWZuNXYyNjFwM2MgYWZqZmgxNjdqYWw4aDYwZTJsZ25vbGl0Y2NAZw",
+   "created": "2016-06-29T16:09:44.000Z",
+   "updated": "2016-06-29T16:09:44.135Z",
+   "summary": "Listen: Chet Faker - Built on Glass, Thinking in Textures",
+   "description": "I liked his single No Diggity. This album is ok, I'll have to give it another listen.\n\nI like:\n- Gold\n- I'm Into You",
+   "creator": {
+    "email": "ehtesh.choudhury@gmail.com",
+    "displayName": "Ehtesh Choudhury"
+   },
+   "organizer": {
+    "email": "afjfh167jal8h60e2lgnolitcc@group.calendar.google.com",
+    "displayName": "music",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2016-06-24T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2016-06-24T21:00:00-04:00"
+   },
+   "iCalUID": "lj02teg4ib5i8fhifn5v261p3c@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+
+   "kind": "calendar#event",
+   "etag": "\"2934433582554000\"",
+   "id": "tk7jcb3phr2h6t148giukav7qg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dGs3amNiM3BocjJoNnQxNDhnaXVrYXY3cWcgYWZqZmgxNjdqYWw4aDYwZTJsZ25vbGl0Y2NAZw",
+   "created": "2016-06-29T16:13:11.000Z",
+   "updated": "2016-06-29T16:13:11.277Z",
+   "summary": "Listen: Beyoncé - Beyoncé Platinum Edition",
+   "description": "A.W. said this should have won the Grammy over Beck's Morning Phase in 2014. Kanye was angry about Beck winning.\n\nI do like Lemonade, so maybe I should give this a listen.",
+   "creator": {
+    "email": "ehtesh.choudhury@gmail.com",
+    "displayName": "Ehtesh Choudhury"
+   },
+   "organizer": {
+    "email": "afjfh167jal8h60e2lgnolitcc@group.calendar.google.com",
+    "displayName": "music",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2016-07-05T09:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2016-07-05T10:00:00-04:00"
+   },
+   "iCalUID": "tk7jcb3phr2h6t148giukav7qg@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+
+   "kind": "calendar#event",
+   "etag": "\"2934432230210000\"",
+   "id": "csta7i7unbjqqoani9celcv9kk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y3N0YTdpN3VuYmpxcW9hbmk5Y2VsY3Y5a2sgYWZqZmgxNjdqYWw4aDYwZTJsZ25vbGl0Y2NAZw",
+   "created": "2016-06-29T15:50:22.000Z",
+   "updated": "2016-06-29T16:13:27.251Z",
+   "summary": "Listen: Gary Clarke Jr - Blak and Blu",
+   "description": "He's good. Rolling Stones described him as a Jimi Hendrix of the 21st century. I think Jordan mentioned in passing that if I like Gary Clarke Jr, I should check out some Jimi Hendrix.",
+   "creator": {
+    "email": "ehtesh.choudhury@gmail.com",
+    "displayName": "Ehtesh Choudhury"
+   },
+   "organizer": {
+    "email": "afjfh167jal8h60e2lgnolitcc@group.calendar.google.com",
+    "displayName": "music",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2016-07-06T09:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2016-07-06T10:00:00-04:00"
+   },
+   "iCalUID": "csta7i7unbjqqoani9celcv9kk@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 30
+     }
+    ]
+   }
+  },
+  {
+
+   "kind": "calendar#event",
+   "etag": "\"2934435771720000\"",
+   "id": "p15anqgj1271g159qhtsgkco40",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cDE1YW5xZ2oxMjcxZzE1OXFodHNna2NvNDAgYWZqZmgxNjdqYWw4aDYwZTJsZ25vbGl0Y2NAZw",
+   "created": "2016-06-29T16:31:25.000Z",
+   "updated": "2016-06-29T16:31:25.860Z",
+   "summary": "Listen: Beck - Morning Phase",
+   "description": "Won a Grammy for Album of the Year, eh.  Also saw him at Governor's Ball.\n\nRelated: http://www.billboard.com/articles/events/grammys-2015/6473038/beyonce-ed-sheeran-gary-clark-jr-stevie-wonder-grammy-tribute\n\nBeck himself didn't think it would win, especially over Beyonce's eponymous album. A.W. says it's a darn shame.\n\nWell, I really dig Guero from Beck. I'll have to see if I like this as well.",
+   "creator": {
+    "email": "ehtesh.choudhury@gmail.com",
+    "displayName": "Ehtesh Choudhury"
+   },
+   "organizer": {
+    "email": "afjfh167jal8h60e2lgnolitcc@group.calendar.google.com",
+    "displayName": "music",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2016-06-29T12:30:00-04:00"
+   },
+   "end": {
+    "dateTime": "2016-06-29T13:30:00-04:00"
+   },
+   "iCalUID": "p15anqgj1271g159qhtsgkco40@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+
+   "kind": "calendar#event",
+   "etag": "\"2934436198068000\"",
+   "id": "fgtokpnh3l0ar4hgobaeqsvil4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Zmd0b2twbmgzbDBhcjRoZ29iYWVxc3ZpbDQgYWZqZmgxNjdqYWw4aDYwZTJsZ25vbGl0Y2NAZw",
+   "created": "2016-06-29T16:34:59.000Z",
+   "updated": "2016-06-29T16:34:59.034Z",
+   "summary": "Listen: Relient K - Mmhmm",
+   "description": "An album from my high school years. The feelings it conjures to me has stood up well. I can't help but really like Relient K. It's strange to think I used to listen to them and don't at all, anymore. Same with stuff like... Panic! at the Disco, Fall Out Boy, and My Chemical Romance. High school was weird.",
+   "creator": {
+    "email": "ehtesh.choudhury@gmail.com",
+    "displayName": "Ehtesh Choudhury"
+   },
+   "organizer": {
+    "email": "afjfh167jal8h60e2lgnolitcc@group.calendar.google.com",
+    "displayName": "music",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2016-06-28T23:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2016-06-29T00:00:00-04:00"
+   },
+   "iCalUID": "fgtokpnh3l0ar4hgobaeqsvil4@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+
+   "kind": "calendar#event",
+   "etag": "\"2934436241544000\"",
+   "id": "fju5jt3i1c2rvh2o7vk5r7hsgg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Zmp1NWp0M2kxYzJydmgybzd2azVyN2hzZ2cgYWZqZmgxNjdqYWw4aDYwZTJsZ25vbGl0Y2NAZw",
+   "created": "2016-06-29T15:32:09.000Z",
+   "updated": "2016-06-29T16:35:20.772Z",
+   "summary": "Listen: Frank Ocean - Channel Orange",
+   "description": "Frank Ocean is sensual.\n\nI really dig:\n- Thinkin Bout You\n- Super Rich Kids\n- Pyramids\n- Forrest Gump\n\nAlso his Novacane single.",
+   "creator": {
+    "email": "ehtesh.choudhury@gmail.com",
+    "displayName": "Ehtesh Choudhury"
+   },
+   "organizer": {
+    "email": "afjfh167jal8h60e2lgnolitcc@group.calendar.google.com",
+    "displayName": "music",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2016-06-29T00:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2016-06-29T01:00:00-04:00"
+   },
+   "iCalUID": "fju5jt3i1c2rvh2o7vk5r7hsgg@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+
+   "kind": "calendar#event",
+   "etag": "\"2934436739440000\"",
+   "id": "s3niemhdkv7h4k18d8pql36b14",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=czNuaWVtaGRrdjdoNGsxOGQ4cHFsMzZiMTQgYWZqZmgxNjdqYWw4aDYwZTJsZ25vbGl0Y2NAZw",
+   "created": "2016-06-29T16:39:28.000Z",
+   "updated": "2016-06-29T16:39:29.720Z",
+   "summary": "Listen: Grimes - Geidi Primes, Halfaxa",
+   "description": "I liked Kill V. Maim off of Art Angels. Sounds like something out of a video game. Fahim and Jordan have good things to say about Grimes too. Fahim showed the really disturbing single d'Eon. I'll have to listen to it again without watching the video.\n\nLet's see how Grimes' earlier work fares.",
+   "creator": {
+    "email": "ehtesh.choudhury@gmail.com",
+    "displayName": "Ehtesh Choudhury"
+   },
+   "organizer": {
+    "email": "afjfh167jal8h60e2lgnolitcc@group.calendar.google.com",
+    "displayName": "music",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2016-07-07T09:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2016-07-07T10:00:00-04:00"
+   },
+   "iCalUID": "s3niemhdkv7h4k18d8pql36b14@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+
+   "kind": "calendar#event",
+   "etag": "\"2934437141936000\"",
+   "id": "0grvpvskg7lsuvtnkechbc7r70",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MGdydnB2c2tnN2xzdXZ0bmtlY2hiYzdyNzAgYWZqZmgxNjdqYWw4aDYwZTJsZ25vbGl0Y2NAZw",
+   "created": "2016-06-29T16:42:50.000Z",
+   "updated": "2016-06-29T16:42:50.968Z",
+   "summary": "Listen: The Protomen - Act II: The Father of Death",
+   "description": "I remember digging this in college. I even showed it to Fahim. I don't remember why I liked it so much then, I'll have to give them another listen.",
+   "creator": {
+    "email": "ehtesh.choudhury@gmail.com",
+    "displayName": "Ehtesh Choudhury"
+   },
+   "organizer": {
+    "email": "afjfh167jal8h60e2lgnolitcc@group.calendar.google.com",
+    "displayName": "music",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2016-07-08T09:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2016-07-08T10:00:00-04:00"
+   },
+   "iCalUID": "0grvpvskg7lsuvtnkechbc7r70@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+
+   "kind": "calendar#event",
+   "etag": "\"2934437351042000\"",
+   "id": "ue4tl02a2gp6h82df6pqmeib70",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dWU0dGwwMmEyZ3A2aDgyZGY2cHFtZWliNzAgYWZqZmgxNjdqYWw4aDYwZTJsZ25vbGl0Y2NAZw",
+   "created": "2016-06-29T16:44:35.000Z",
+   "updated": "2016-06-29T16:44:35.521Z",
+   "summary": "Listen: Panty & Stocking with Garterbelt OST",
+   "description": "Tanjhid recommends this. I don't remember the music and I thought the show was too bizarre for me, but hey, I'll give it a listen.\n\nYoutube link: https://www.youtube.com/watch?v=C_QL6WV2bvM",
+   "creator": {
+    "email": "ehtesh.choudhury@gmail.com",
+    "displayName": "Ehtesh Choudhury"
+   },
+   "organizer": {
+    "email": "afjfh167jal8h60e2lgnolitcc@group.calendar.google.com",
+    "displayName": "music",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2016-07-11T09:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2016-07-11T10:00:00-04:00"
+   },
+   "iCalUID": "ue4tl02a2gp6h82df6pqmeib70@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+
+   "kind": "calendar#event",
+   "etag": "\"2934437971370000\"",
+   "id": "jevp3m16ggste0fond5kian20o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=amV2cDNtMTZnZ3N0ZTBmb25kNWtpYW4yMG8gYWZqZmgxNjdqYWw4aDYwZTJsZ25vbGl0Y2NAZw",
+   "created": "2016-06-29T16:49:44.000Z",
+   "updated": "2016-06-29T16:49:45.685Z",
+   "summary": "Listen: Nujabes - Modal Soul",
+   "description": "Good memories.",
+   "creator": {
+    "email": "ehtesh.choudhury@gmail.com",
+    "displayName": "Ehtesh Choudhury"
+   },
+   "organizer": {
+    "email": "afjfh167jal8h60e2lgnolitcc@group.calendar.google.com",
+    "displayName": "music",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2016-07-12T09:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2016-07-12T10:00:00-04:00"
+   },
+   "iCalUID": "jevp3m16ggste0fond5kian20o@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   }
+  }
+ ]
+}
