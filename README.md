@@ -9,8 +9,13 @@ Looked at the Calendar API and came across this [useful API call][1]:
     GET
     https://www.googleapis.com/calendar/v3/calendars/afjfh167jal8h60e2lgnolitcc%40group.calendar.google.com/events?timeMax=2016-07-05T10%3A00%3A00Z&timeMin=2016-06-28T10%3A00%3A00Z&key={YOUR_API_KEY}
 
-Now to just encode that into a website version... maybe using angular? But I
-really don't need angular or react or anything like that.
+To get started:
+
+    # activate your virtualenv
+    pip install -r requirements.txt
+    python server-2lo.py
+    # point browser to http://localhost:5000/
+
 
 ----
 
